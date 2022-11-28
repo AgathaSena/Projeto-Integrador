@@ -14,6 +14,14 @@ Este repositório visa o cronograma do projeto integrador, utilizando o Gráfico
     Criação do protótipo - Front/Back-end      :c3,     after c2, 30d
     section Defesa
     Preparação dos slides :p1, after c3, 10d
-    Ensaio da apresentação :p2, after c3, 7d
+    Ensaio da apresentação :p2, after c3, 10d
     Apresentação e entrega  :milestone, 2023-02-01, 5d
 ``` 
+
+- Pré projeto: 16/10 até 23/10
+- Escrita da parte teórica - 01/11 até 11/11
+- Criação de diagramas - 20/11 até 18/12
+- Criação do protótipo - Front/Back-end 18-11 até 15/12
+- Preparação dos slides - 22/01 até 29/01
+- Ensaio da apresentação - 22/01 até 29/01
+- Entrega do trabalho - 01/02 até 05/02
