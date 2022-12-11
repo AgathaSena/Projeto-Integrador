@@ -1,6 +1,7 @@
 # Projeto-Integrador
 Este repositório visa todo o passo a passo do projeto integrador.
 
+# **Cronograma - Gráfico de Gannt**
 Segue o cronograma, utilizando o Gráfico de Gannt.
 
 
