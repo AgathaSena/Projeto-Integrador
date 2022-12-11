@@ -97,4 +97,9 @@ Caso queira salvar a lista em PDF, irá aparecer essa tela informando que foi sa
 ![image](https://user-images.githubusercontent.com/79552519/206931394-79eba7dc-f8a9-4cbd-a392-33c8394ee6b9.png)
 
 
+# **Diagrama de Componentes**
+Peguei o exemplo do vídeo que foi indicado.
 
+Não consegui usar o Diagrams para fazer, e no LucidChart não achei diagrama de componentes
+
+![diagrama](https://user-images.githubusercontent.com/79552519/206933160-e26855f0-0ace-4285-bacb-d8e7031b3960.png)
