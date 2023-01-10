@@ -14,7 +14,7 @@ Segue o cronograma, utilizando o Gráfico de Gannt.
     Escrita da parte teórica  :a2, 2022-11-01, 10d
     section Prototipação
     Criação de diagramas     :       c2,  2022-11-20, 30d
-    Criação do protótipo - Front/Back-end      :c3,     after c2, 30d
+    Criação do protótipo - Front/Back-end      :c3,     after c2, 20d
     section Defesa
     Preparação dos slides :p1, after c3, 10d
     Criação do MVP:p2, after c3, 14d
