@@ -26,6 +26,7 @@ Segue o cronograma, utilizando o Gráfico de Gannt.
 - Criação de diagramas - 20/11 até 18/12
 - Criação do protótipo - Front/Back-end 18-11 até 15/12
 - Preparação dos slides - 10/01 até 17/01
+- Criação do MVP - 02/01 até 16/01
 - Ensaio da apresentação - 16/01 até 29/01
 - Entrega do trabalho - 31/02
 
