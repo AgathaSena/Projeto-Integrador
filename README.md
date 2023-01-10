@@ -25,9 +25,9 @@ Segue o cronograma, utilizando o Gráfico de Gannt.
 - Escrita da parte teórica - 01/11 até 11/11
 - Criação de diagramas - 20/11 até 18/12
 - Criação do protótipo - Front/Back-end 18-11 até 15/12
-- Preparação dos slides - 22/01 até 29/01
-- Ensaio da apresentação - 22/01 até 29/01
-- Entrega do trabalho - 01/02 até 05/02
+- Preparação dos slides - 10/01 até 17/01
+- Ensaio da apresentação - 16/01 até 29/01
+- Entrega do trabalho - 31/02
 
 # Protótipo - As telas do aplicativo usando o Figma
 
