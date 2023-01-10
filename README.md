@@ -17,7 +17,8 @@ Segue o cronograma, utilizando o Gráfico de Gannt.
     Criação do protótipo - Front/Back-end      :c3,     after c2, 30d
     section Defesa
     Preparação dos slides :p1, after c3, 10d
-    Ensaio da apresentação :p2, after c3, 10d
+    Criação do MVP:p2, after c3, 14d
+    Ensaio da apresentação :p3, after p2, 10d
     Apresentação e entrega  :milestone, 2023-02-01, 5d
 ``` 
 
