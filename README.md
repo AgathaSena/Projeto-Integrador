@@ -105,3 +105,15 @@ Peguei o exemplo do vídeo que foi indicado.
 Não consegui usar o Diagrams para fazer, e no LucidChart não achei diagrama de componentes
 
 ![diagrama](https://user-images.githubusercontent.com/79552519/206933160-e26855f0-0ace-4285-bacb-d8e7031b3960.png)
+
+# **Slide contendo a apresentação do projeto**
+
+![Slide](https://user-images.githubusercontent.com/79552519/212903366-bc763776-bd98-4806-b530-e3348c52adab.png)
+Link para acesso: https://docs.google.com/presentation/d/1U37XWA5Fwa3Pr00MyLXuNClpii_PEE7uu4ghxV668oc/edit?usp=sharing
+
+# **MVP Fumaça - Formulário**
+
+![formulário-MVP](https://user-images.githubusercontent.com/79552519/212903630-555d77d1-f433-4872-9c5e-448f297cfc35.png)
+Link de acesso: https://forms.gle/xp44rzYswtMS4i8e9
+
+
